@@ -43,7 +43,9 @@ This dataset covers **multiple surveyed areas in Dhaka**, with detailed informat
 
 ## 📌 Screenshot and preview of Dashboard:
 
-*![Image Placeholder](https://your-dashboard-screenshot-link.com)*
+![Image](https://github.com/user-attachments/assets/cbedc75c-0394-49c7-b321-94db9d33660a)
+
+https://github.com/user-attachments/assets/72e246a6-7b64-4d43-aed1-121cf6e2f12b
 
 ## 🚀 Potential Use Cases
 
